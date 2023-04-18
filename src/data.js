@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "Hi! My name is Milena, I am passionate about:",
     animated: {
-        first: "Aerospace Engineering",
-        second: "Software Systems",
-        third: "Integrated Solutions",
+        first: "Innovative Technologies",
+        second: "Robotic Systems",
+        third: "Space Engineering",
     },
     description: "UBC Integrated Engineering | Computer & Mechanical Engineering with a Focus on Aerospace",
     your_img_url: "https://free4kwallpapers.com/uploads/originals/2015/10/24/astronaut-in-space-wallpaper.jpg",
