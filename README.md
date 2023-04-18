@@ -1,4 +1,4 @@
-### Milena Markovich Portfolio
+### Welcome to My Portfolio!
 
 My name is Milena, I'm an Integrated Engineering student at the University of British Columbia. In my studies I focus on Mechanical and Computer engineering, which allows me to combine my passions for aerospace engineering and computer programming.
 
